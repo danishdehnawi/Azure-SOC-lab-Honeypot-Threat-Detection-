@@ -94,6 +94,6 @@ SecurityEvent
 ---
 
 ## Resources
-- [GeoIP Watchlist](YOUR GITHUB RESOURCES FOLDER LINK HERE)
-- [Attack Map JSON](YOUR GITHUB RESOURCES FOLDER LINK HERE)
+- [GeoIP Watchlist]([YOUR GITHUB RESOURCES FOLDER LINK HERE](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources))
+- [Attack Map JSON]([YOUR GITHUB RESOURCES FOLDER LINK HERE](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources))
 
