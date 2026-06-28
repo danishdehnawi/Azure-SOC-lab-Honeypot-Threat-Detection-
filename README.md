@@ -1,4 +1,4 @@
-# Azure-SOC-lab-Honeypot-Threat-Detection-
+
 
 # Azure SOC Lab: Honeypot & Threat Detection
 
