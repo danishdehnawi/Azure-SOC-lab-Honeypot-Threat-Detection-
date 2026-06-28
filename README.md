@@ -119,13 +119,11 @@ SecurityEvent
 
 ---
 
-# Resources
+## Resources
 
-- **GeoIP Watchlist:**  
-  https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources/GeoIP
+- **[GeoIP Watchlist](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources/GeoIP)**
 
-- **Attack Map JSON:**  
-  https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources/Map
+- **[Attack Map JSON](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources/Map)**
 
 ---
 
