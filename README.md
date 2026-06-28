@@ -5,8 +5,7 @@
 
 The full presentation and documentation for this lab can be accessed here:
 
-**Azure SOC Lab Presentation:**  
-https://gmuedu-my.sharepoint.com/:p:/g/personal/ddehnawi_gmu_edu/IQDX5zp-NKSfQJxkTDSWxc0IAXEMLbqllncyqLni81Sp7wQ?e=zlx87S
+[Azure SOC Lab Presentation](https://gmuedu-my.sharepoint.com/:p:/g/personal/ddehnawi_gmu_edu/IQDX5zp-NKSfQJxkTDSWxc0IAXEMLbqllncyqLni81Sp7wQ?e=zlx87S)
 
 ---
 
