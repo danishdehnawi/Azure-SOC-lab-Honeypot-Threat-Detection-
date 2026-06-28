@@ -92,8 +92,7 @@ SecurityEvent
 - Incident Investigation
 
 ---
-
 ## Resources
-- [GeoIP Watchlist]([YOUR GITHUB RESOURCES FOLDER LINK HERE](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources))
-- [Attack Map JSON]([YOUR GITHUB RESOURCES FOLDER LINK HERE](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources))
+- [GeoIP Watchlist](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources)
+- [Attack Map JSON](https://github.com/danishdehnawi/Azure-SOC-lab-Honeypot-Threat-Detection-/tree/main/Resources)
 
