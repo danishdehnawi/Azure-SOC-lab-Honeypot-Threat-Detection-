@@ -1,5 +1,16 @@
 # Azure SOC Lab: Honeypot & Threat Detection
 
+
+## Project Documentation / Presentation
+
+The full presentation and documentation for this lab can be accessed here:
+
+**Azure SOC Lab Presentation:**  
+https://gmuedu-my.sharepoint.com/:p:/g/personal/ddehnawi_gmu_edu/IQDX5zp-NKSfQJxkTDSWxc0IAXEMLbqllncyqLni81Sp7wQ?e=zlx87S
+
+---
+
+
 ## Overview
 
 This project demonstrates a real-world Security Operations Center (SOC) workflow built entirely in Microsoft Azure. A Windows 10 Virtual Machine was intentionally exposed to the public internet to function as a honeypot, attracting real-world attackers and capturing live brute-force and credential-stuffing activity. Microsoft Sentinel was used as the SIEM to collect, analyze, and visualize attack data.
